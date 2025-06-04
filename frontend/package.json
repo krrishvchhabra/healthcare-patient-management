@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
